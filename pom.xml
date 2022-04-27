@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.springbootmvc</groupId>
 	<artifactId>studentManagementSystem</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.1</version>
 	<name>studentManagementSystem</name>
 	<description>Student Mangement systme using spring boot and thymeleaf</description>
 	<properties>
